@@ -33,7 +33,7 @@
         billsCount += billCount;
 
         if (billCount > 0) {
-            output += `${item}x${billCount}, `;
+            output += `${item} x ${billCount}, `;
         }
     }
 
